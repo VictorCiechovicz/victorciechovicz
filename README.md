@@ -5,7 +5,7 @@
  
  #### ****My current tools****
  
--📲 Front-end Mobile with React Native <br>
+-📲 Front-end with React and React Native <br>
 -🛠️ Typescript <br>
 -🧰 And more...
 
