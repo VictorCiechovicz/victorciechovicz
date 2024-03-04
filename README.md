@@ -1,7 +1,7 @@
 ### ****Hi, I'm Victor****
 
 
- I'm a Developer Jr. Currently I'm working as a Mobile. 
+ I'm a Developer. Currently I'm working as a Mobile. 
  
  #### ****My current tools****
  
