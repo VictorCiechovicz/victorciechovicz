@@ -7,7 +7,7 @@
  
 -📲 Front-end with React, React Native and NEXT.js<br>
 -🛠️ Typescript <br>
--🛠️ Leaflet
+-🛠️ Leaflet <br>
 -🧰 And more...
 
 
