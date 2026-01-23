@@ -5,10 +5,8 @@
  
  #### ****My current tools****
  
--📲 Front-end with React, React Native and NEXT.js<br>
--🛠️ Typescript <br>
--🛠️ Leaflet <br>
--🧰 And more...
+-Software Developer | React, TypeScript, Java, Spring Boot & Next.js Specialist<br>
+
 
 
 
