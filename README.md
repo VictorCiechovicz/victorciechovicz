@@ -1,11 +1,11 @@
 ### ****Hi, I'm Victor****
 
 
- I'm a Developer.
+ I'm a Web Developer.
  
  #### ****My current tools****
  
--Software Developer | React, TypeScript, Java, Spring Boot & Next.js Specialist<br>
+Software Developer | React, TypeScript, Java, Spring Boot & Next.js Specialist<br>
 
 
 
